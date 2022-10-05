@@ -1,6 +1,6 @@
 #/bin/sh
 
-sudo s
+sudo su
 apt install apache2 apt-transport-http tor
 service apache2 start
 service tor start
